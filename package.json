@@ -1,0 +1,35 @@
+{
+  "name": "gulp-dom-processor",
+  "version": "0.1.0-SNAPSHOT",
+  "description": "gulp plugin for dom-processor",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BenjaminEckardt/gulp-dom-processor"
+  },
+  "scripts": {
+    "pretest": "jshint *.js test/*.test.js",
+    "test": "mocha test/*.test.js"
+  },
+  "keywords": [
+    "gulpplugin",
+    "dom",
+    "html",
+    "processor",
+    "template",
+    "replace"
+  ],
+  "author": "Benjamin Eckardt <Benjamin.Eckardt@gmx.net> (https://github.com/BenjaminEckardt)",
+  "license": "MIT",
+  "dependencies": {
+    "dom-processor": "^0.2.0",
+    "gulp-util": "^3.0.7",
+    "readable-stream": "^2.0.5"
+  },
+  "devDependencies": {
+    "assert": "^1.3.0",
+    "jshint": "^2.9.1",
+    "mocha": "^2.4.5",
+    "vinyl": "^1.1.1"
+  }
+}
