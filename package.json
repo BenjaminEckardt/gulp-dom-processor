@@ -1,6 +1,6 @@
 {
   "name": "gulp-dom-processor",
-  "version": "0.1.0",
+  "version": "0.2.0-SNAPSHOT",
   "description": "gulp plugin for dom-processor",
   "main": "index.js",
   "repository": {
@@ -22,7 +22,7 @@
   "author": "Benjamin Eckardt <Benjamin.Eckardt@gmx.net> (https://github.com/BenjaminEckardt)",
   "license": "MIT",
   "dependencies": {
-    "dom-processor": "~0.2.0",
+    "dom-processor": "^0.2.0",
     "gulp-util": "^3.0.7",
     "readable-stream": "^2.0.5"
   },
