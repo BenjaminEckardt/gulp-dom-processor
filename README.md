@@ -18,6 +18,7 @@ gulp.task('default', function() {
     .pipe(gulp.dest('./output'));
 });
 ```
+For the usage of `configLoader` see [this](https://github.com/BenjaminEckardt/dom-processor#config-loader)
 
 ## License
 MIT © [Benjamin Eckardt](https://github.com/BenjaminEckardt)
