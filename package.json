@@ -22,7 +22,7 @@
   "author": "Benjamin Eckardt <Benjamin.Eckardt@gmx.net> (https://github.com/BenjaminEckardt)",
   "license": "MIT",
   "dependencies": {
-    "dom-processor": "^0.3.0",
+    "dom-processor": "^1.1.1",
     "gulp-util": "^3.0.7",
     "readable-stream": "^2.0.5"
   },
