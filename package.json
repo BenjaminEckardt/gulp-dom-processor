@@ -1,6 +1,6 @@
 {
   "name": "gulp-dom-processor",
-  "version": "0.2.0-SNAPSHOT",
+  "version": "0.2.0",
   "description": "gulp plugin for dom-processor",
   "main": "index.js",
   "repository": {
